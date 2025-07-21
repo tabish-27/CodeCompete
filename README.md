@@ -5,7 +5,7 @@
 ## 📃 Description
 CodeCompete is an innovative web application designed for competitive programmers who want to improve their skills, compete with friends, and track their rankings. 
 
-**Live Link** - https://cp-application-frontend.vercel.app/
+**Live Link** - [https://cp-application-frontend.vercel.app/](https://code-compete-v.vercel.app/)
 
 ### 🌟 Features:
 - **Topic-wise contests** 🏆 – Users can participate in topic-specific coding contests and track their ranks.
